@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd890bd0.css",
+    "main.js": "/static/js/main.3241c7af.js",
+    "static/media/2.png": "/static/media/2.b810024430d376b6bd6d.png",
+    "static/media/img1.png": "/static/media/img1.91adf8dc0779a423e014.png",
+    "static/media/03.jpg": "/static/media/03.0df4d0d0dda2d436bffc.jpg",
+    "static/media/Bakery.jpg": "/static/media/Bakery.2dd8ea198a716d5d2a61.jpg",
+    "static/media/refreshherohome.webp": "/static/media/refreshherohome.e8328ca7839273dec861.webp",
+    "static/media/girl.jpg": "/static/media/girl.960ff282036e3c4e63eb.jpg",
+    "static/media/CheeseCake.jpg": "/static/media/CheeseCake.a7f74c39d0decba6a195.jpg",
+    "static/media/Boy.jpg": "/static/media/Boy.f6e01ff2a6ae714f244b.jpg",
+    "static/media/01.jpg": "/static/media/01.1defe43a880022701c8d.jpg",
+    "static/media/02.jpg": "/static/media/02.a567a9db1482b99c0fab.jpg",
+    "index.html": "/index.html",
+    "main.cd890bd0.css.map": "/static/css/main.cd890bd0.css.map",
+    "main.3241c7af.js.map": "/static/js/main.3241c7af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd890bd0.css",
+    "static/js/main.3241c7af.js"
+  ]
+}
